@@ -3,6 +3,8 @@ Hi! I'm Ghita, a healthcare professional turned web developer passionate about i
 
 ## Get in Touch 📫
 - LinkedIn: [linkedin.com/in/ghita-aachab](https://www.linkedin.com/in/ghita-aachab/) 🌐
+- Portfolio: [troopl.com/ghitaaachab](https://troopl.com/ghitaaachab) 🌐
+
 
 ## My Projects 🛠️
 Here are some of the projects I've been working on:
